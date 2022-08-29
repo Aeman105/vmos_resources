@@ -7,13 +7,12 @@ The application was intended to link users to all the vmospro's free, lite roms 
 WIP
 
 Plan:
-- mrfrost vmos related files
-- huskyDG vmos related files
-- andnixsh vmos related files
-- maximiymaximiy related vmos files
-- other custom vmos roms (pending)
-- aeman105gamer's reddit vmos posts (pending)
-- other reading materials
+- mrfrost vmos related files (90%) 
+- huskyDG vmos related files (90%)
+- andnixsh vmos related files (100%)
+- kr6to vmos related files (90%)
+- AEL vmos related files (90%) 
+- aeman105gamer's reddit vmos posts (60%)
 - vmos contact details, support group, etc
 - and more
 
