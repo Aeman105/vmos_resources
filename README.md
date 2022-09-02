@@ -14,7 +14,7 @@ Plan:
 - zeli vmos related files (20%)
 - kr6to vmos related files (90%)
 - AEL vmos related files (90%) 
-- aeman105gamer's reddit vmos posts (70%)
+- aeman105gamer's reddit vmos posts (80%)
 - vmos contact details, support group, etc
 - and more
 
