@@ -33,7 +33,7 @@ This application was intended to link users to all VMOS Pro's free, lite roms an
 # AEL VMOS related files (90%) 
   ##### added AEL's social medias (WIP)
   ##### added AEL's online materials (WIP)
-# Aeman105gamer's Reddit VMOS posts (80%)
+# Aeman105gamer VMOS related files (80%)
   ##### added my socials media (WIP)
   ##### added my online materials (WIP)
 # VMOS contact details, support group, etc. (WIP)
