@@ -4,7 +4,7 @@ A simple Android app created using [Angular](https://angular.io).
 
 This application was intended to link users to all VMOS Pro's free, lite roms and other stuff.
 
-🛠️ **WIP**
+# 🛠️ *WIP*
 
 # Plan:
 # mrfrost475 VMOS related files (90%)
