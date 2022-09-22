@@ -36,7 +36,7 @@ This application was intended to link users to all VMOS Pro's free, lite roms an
 # AEL VMOS related files (90%) 
   - added AEL's social medias (WIP)
   - added AEL's online materials (WIP)
-# Aeman105gamer VMOS related files (80%)
+# Aeman105Gamer VMOS related files (80%)
   - added my socials media (WIP)
   - added my online materials (WIP)
   - fixed reading materials's layout for better reading (100%)
@@ -84,14 +84,23 @@ This application was intended to link users to all VMOS Pro's free, lite roms an
 # IamHater92 VMOS related files (0%)
   - added IamHater92's social medias (WIP)
   - added IamHater92's online materials (WIP)
-#  GiHunBaby VMOS related files (0%)
+# GiHunBaby VMOS related files (0%)
   - added  GiHunBaby's social medias (WIP)
   - added  GiHunBaby's online materials (WIP)
 # gffrdt VMOS related files (0%)
   - added gffrdt's social medias (WIP)
   - added gffrdt's online materials (WIP)
+# Skorpion VMOS related files (0%)
+  - added Skorpion's social medias (WIP)
+  - added Skorpion's online materials (WIP)
+# Toon VMOS related files (0%)
+  - added Toon's social medias (WIP)
+  - added Toon's online materials (WIP)
 # VMOS contact details, support group, etc. (WIP)
-- and more
+  - and more
+
+# Personal tasks which may need to be reordered
+  - direct download URL links for mrfrost telegram Archive channel, Feravolt's apps, other interesing resources has been generated
 
 
 
