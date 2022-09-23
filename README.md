@@ -59,7 +59,7 @@ This application was intended to link users to all VMOS Pro's free, lite roms an
   - added Unknown Authors' online materials (WIP)
 # Toon VMOS related files (0%)
   - added Toon's social medias (WIP)
-- - added Toon's online materials (WIP)
+  - added Toon's online materials (WIP)
 # SesshouMaru81 VMOS related files (0%)
   - added SesshouMaru81's social medias (WIP)
   - added SesshouMaru81's online materials (WIP)
