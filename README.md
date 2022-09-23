@@ -96,11 +96,41 @@ This application was intended to link users to all VMOS Pro's free, lite roms an
 # Toon VMOS related files (0%)
   - added Toon's social medias (WIP)
   - added Toon's online materials (WIP)
+# 2hh2nxrh22 VMOS related files (0%)
+  - added 2hh2nxrh22's social medias (WIP)
+  - added 2hh2nxrh22's online materials (WIP)
+# AHLSG123 VMOS related files (0%)
+  - added AHLSG123's social medias (WIP)
+  - added AHLSG123's online materials (WIP)
+# ANDROLOGGER VMOS related files (0%)
+  - added ANDROLOGGER's social medias (WIP)
+  - added ANDROLOGGER's online materials (WIP)
+# Antonbeard VMOS related files (0%)
+  - added Antonbeard's social medias (WIP)
+  - added Antonbeard's online materials (WIP)
+# barnabas7 VMOS related files (0%)
+  - added barnabas7's social medias (WIP)
+  - added barnabas7's online materials (WIP)
+# bugtracker VMOS related files (0%)
+  - added bugtracker's social medias (WIP)
+  - added bugtracker's online materials (WIP)
+# Finder歼陌 VMOS related files (0%)
+  - added Finder歼陌's social medias (WIP)
+  - added Finder歼陌's online materials (WIP)
+# @ios7jbpro VMOS related files (0%)
+  - added @ios7jbpro's social medias (WIP)
+  - added @ios7jbpro's online materials (WIP)
+# ro6kie VMOS related files (0%)
+  - added ro6kie's social medias (WIP)
+  - added ro6kie's online materials (WIP)
+# SenpaiKurama VMOS related files (0%)
+  - added SenpaiKurama's social medias (WIP)
+  - added SenpaiKurama's online materials (WIP)
 # VMOS contact details, support group, etc. (WIP)
   - and more
 
 # Personal tasks which may need to be reordered
-  - direct download URL links for mrfrost telegram Archive channel, Feravolt's apps, other interesing resources has been generated
+  - direct download URL links for mrfrost telegram Archive channel, Feravolt's apps, custom roms and other interesing resources has been generated
 
 
 
