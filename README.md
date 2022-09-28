@@ -126,6 +126,9 @@ This application was intended to link users to all VMOS Pro's free, lite roms an
 # SenpaiKurama VMOS related files (0%)
   - added SenpaiKurama's social medias (WIP)
   - added SenpaiKurama's online materials (WIP)
+# Madiark VMOS related files (0%)
+  - added Madiark's social medias (WIP)
+  - added Madiark's online materials (WIP)
 # VMOS contact details, support group, etc. (WIP)
   - and more
 
