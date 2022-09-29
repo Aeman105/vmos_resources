@@ -133,7 +133,8 @@ This application was intended to link users to all VMOS Pro's free, lite roms an
   - and more
 
 # Personal tasks which may need to be reordered
-  - direct download URL links for mrfrost telegram Archive channel, Feravolt's apps, custom roms and other interesing resources has been generated
+  - direct download URL links for mrfrost telegram Archive channel, Feravolt's apps, custom roms and other interesing resources has been *generated*
+  - URL links added to the app (80%) 
 
 
 
