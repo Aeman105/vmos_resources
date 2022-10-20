@@ -143,6 +143,9 @@ This application was intended to link users to all VMOS Pro's free, lite roms an
 ###### Help
   - added guide on how to use the app (WIP)
 
+###### About
+  - added only the official information on every mentioned VMs and tools inside the app (WIP)
+
 ###### Twoyi contact details, support group, etc. (WIP)
   - added Twoyi social accounts, website
   - added Custom Twoyi ROMs or APKs
