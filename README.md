@@ -6,7 +6,7 @@ This application was intended to link users to all VMOS Pro's free, lite roms an
 
 ###### 🛠️ *WIP*
 
-###### Plan:
+##### Plan:
 ###### mrfrost475 VMOS related files (90%)
 ###### HuskyDG VMOS related files (70%)
 ###### AndnixSH VMOS related files (100%)
